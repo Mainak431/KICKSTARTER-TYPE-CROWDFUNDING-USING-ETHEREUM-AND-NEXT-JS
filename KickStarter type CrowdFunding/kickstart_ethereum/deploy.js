@@ -4,9 +4,9 @@ const Web3 = require('web3');
 const compiledFactory = require('./build/CampaignFactory.json')
 const provider = new HDWalletProvider(
   //copy paste the mnemonic to link to the rinkeby accounts
-  'knock rent name asthma awkward ahead tonight round walnut punch lecture shop',
+  'kill rent name asthma awkward ago tonight round walnut punch lecture shop',
   //network we want to connect to . copy the link from infura
-  'https://rinkeby.infura.io/RCkuAhCuzmIUEP9vRby3'
+  'https://rinkeby.infura.io/RCkuAhCuzmIUEP9vRby2'
   //this link is actually a node where we deploy our contract
 );
 

@@ -1,1 +1,1 @@
-# KICKSTARTER-TYPE-CROWDFUNDING-USING-ETHEREUM-AND-NEXT-JS
+# Kickstarter type crowdfunding with control over withdrawal
